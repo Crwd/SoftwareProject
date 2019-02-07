@@ -1,0 +1,6 @@
+E:\Projects\C#\SoftwareProject\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.exe.config
+E:\Projects\C#\SoftwareProject\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.exe
+E:\Projects\C#\SoftwareProject\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.pdb
+E:\Projects\C#\SoftwareProject\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.exe
+E:\Projects\C#\SoftwareProject\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.pdb
+E:\Projects\C#\SoftwareProject\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.csprojResolveAssemblyReference.cache
